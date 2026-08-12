@@ -43,15 +43,13 @@ file uploaded to the Streamlit app.
 ---
 
 ## c. GitHub Repository Link
+> https://github.com/praveen990kumar/breast-cancer-ml-assignment2
 
-> https://github.com/<your-username>/breast-cancer-ml-assignment2
->
-> *(Replace with your actual repository URL after pushing the code.)*
 
 **Live Streamlit App:**
 > https://<your-app-name>.streamlit.app
 >
-> *(Replace with your actual Streamlit Community Cloud URL after deployment.)*
+
 
 ### Repository structure
 ```
