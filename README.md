@@ -47,7 +47,7 @@ file uploaded to the Streamlit app.
 
 
 **Live Streamlit App:**
-> https://<your-app-name>.streamlit.app
+>  https://2025ac05443-breast-cancer-ml-assignment2-imrsncjyu92k7zd4r9i7ss.streamlit.app/
 >
 
 
