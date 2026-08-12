@@ -1,0 +1,84 @@
+{
+  "metrics": {
+    "Logistic Regression": {
+      "Accuracy": 0.986,
+      "AUC": 0.9977,
+      "Precision": 0.9889,
+      "Recall": 0.9889,
+      "F1": 0.9889,
+      "MCC": 0.97
+    },
+    "Decision Tree": {
+      "Accuracy": 0.9371,
+      "AUC": 0.9186,
+      "Precision": 0.9551,
+      "Recall": 0.9444,
+      "F1": 0.9497,
+      "MCC": 0.8657
+    },
+    "kNN": {
+      "Accuracy": 0.979,
+      "AUC": 0.9923,
+      "Precision": 0.9677,
+      "Recall": 1.0,
+      "F1": 0.9836,
+      "MCC": 0.9555
+    },
+    "Naive Bayes": {
+      "Accuracy": 0.9371,
+      "AUC": 0.9878,
+      "Precision": 0.9355,
+      "Recall": 0.9667,
+      "F1": 0.9508,
+      "MCC": 0.8644
+    },
+    "Random Forest (Ensemble)": {
+      "Accuracy": 0.958,
+      "AUC": 0.995,
+      "Precision": 0.9565,
+      "Recall": 0.9778,
+      "F1": 0.967,
+      "MCC": 0.9098
+    }
+  },
+  "metadata": {
+    "target_column": "diagnosis",
+    "feature_names": [
+      "mean radius",
+      "mean texture",
+      "mean perimeter",
+      "mean area",
+      "mean smoothness",
+      "mean compactness",
+      "mean concavity",
+      "mean concave points",
+      "mean symmetry",
+      "mean fractal dimension",
+      "radius error",
+      "texture error",
+      "perimeter error",
+      "area error",
+      "smoothness error",
+      "compactness error",
+      "concavity error",
+      "concave points error",
+      "symmetry error",
+      "fractal dimension error",
+      "worst radius",
+      "worst texture",
+      "worst perimeter",
+      "worst area",
+      "worst smoothness",
+      "worst compactness",
+      "worst concavity",
+      "worst concave points",
+      "worst symmetry",
+      "worst fractal dimension"
+    ],
+    "class_labels": {
+      "0": "malignant",
+      "1": "benign"
+    },
+    "n_test_samples": 143
+  }
+}

@@ -1,4 +1,3 @@
-# breast-cancer-ml-assignment2
 # Breast Cancer Classification — ML Assignment 2
 
 An end-to-end machine-learning project that trains **five classification models**
